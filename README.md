@@ -1,2 +1,1 @@
-# Graham Rush
- This project was created for my final exam.
+Dreamscape Graham Collector is a 3D game developed as part of my final exam project. The game revolves around a whimsical dream world where the player navigates through surreal environments to collect graham balls while avoiding obstacles and utilizing power-ups like shields and magnets. The game combines immersive 3D visuals, engaging mechanics, and strategic gameplay to create a unique and enjoyable experience.
